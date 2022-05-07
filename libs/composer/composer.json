@@ -1,0 +1,16 @@
+{
+    "name": "wef/agenda",
+    "description": "Agenda eletronica",
+    "authors": [
+        {
+            "name": "Ryan Flores"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}
