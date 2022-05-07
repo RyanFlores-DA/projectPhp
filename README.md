@@ -1,5 +1,5 @@
-PHP: 8.1.0 - Modelo MVC
-MYSQL: 8.0
+#PHP: 8.1.0 - Modelo MVC
+#MYSQL: 8.0
 Composer: 2.3.5
 Biblioteca: FullCalendar https://fullcalendar.io/.
 Servidor: WampServer
